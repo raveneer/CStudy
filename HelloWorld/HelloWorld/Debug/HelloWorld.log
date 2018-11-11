@@ -1,0 +1,3 @@
+﻿  main.c
+c:\cprojects\cstudy\helloworld\helloworld\main.c(6): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  HelloWorld.vcxproj -> C:\CProjects\CStudy\HelloWorld\Debug\HelloWorld.exe
